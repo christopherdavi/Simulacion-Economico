@@ -1,2 +1,2 @@
 # Simulacion-Economico
-El programa es una simulación económica que consiste en ver como el ser humano compra un vehivulo 
+El programa es una Simulación Económica de una persona que compra un vehículo   
